@@ -1,7 +1,7 @@
 ---
 license: openrail
 ---
-Description: The knowrohit07/know_medical_dialogues dataset is a collection of conversational exchanges between patients and doctors on various medical topics. It aims to capture the intricacies, uncertainties, and questions posed by individuals regarding their health and the medical guidance provided in response.
+### Description: The knowrohit07/know_medical_dialogues dataset is a collection of conversational exchanges between patients and doctors on various medical topics. It aims to capture the intricacies, uncertainties, and questions posed by individuals regarding their health and the medical guidance provided in response.
 
 Intended Use: This dataset is crafted for training Large Language Models (LLMs) with a focus on understanding and generating medically-informed dialogue. It's ideal for LLM applications aiming to provide medical information or insights, especially for scenarios with limited access to healthcare resources.
 
