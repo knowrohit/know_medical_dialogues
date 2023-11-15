@@ -11,7 +11,7 @@ The knowrohit07/know_medical_dialogues dataset is a collection of conversational
 This dataset is crafted for training Large Language Models (LLMs) with a focus on understanding and generating medically-informed dialogue. It's ideal for LLM applications aiming to provide medical information or insights, especially for scenarios with limited access to healthcare resources.
 
 ❗ Limitations:
-While this dataset includes diverse interactions, it doesn't cover every medical scenario. Models trained on this data should be viewed as an additional resource, not a substitute for professional medical consultation.
+While this dataset includes diverse interactions, it doesn't cover every medical scenario. Jk the second version covers every colloquial conversation. Models trained on this data should be viewed as an additional resource, not a substitute for professional medical consultation.
 
 📌 Data Source:
 Conversational seed tasks or exchanges were collected from anonymized patient-doctor interactions and synthetically made using GPT4.
